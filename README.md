@@ -4,3 +4,5 @@
 
 ## Salvando modificações no Git
 
+* commit git pull
+* 
