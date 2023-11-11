@@ -5,4 +5,5 @@
 ## Salvando modificações no Git
 
 * commit git pull
+* comando git fat
 * 
